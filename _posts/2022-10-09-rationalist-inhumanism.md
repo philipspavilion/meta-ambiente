@@ -1,5 +1,5 @@
 ---
-title: "rationalist-inhumanism"
+title: "Inumanismo racionalista"
 date: 2022-10-09
 ---
 Inumanismo racionalista
